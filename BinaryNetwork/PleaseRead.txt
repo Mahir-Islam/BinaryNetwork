@@ -1,0 +1,15 @@
+Hello, this is my first neural network :D
+
+To use this program, run the "simpleNetwork.py" file.
+
+Click on the "Open File" button then choose a file to test.
+
+You can find some sample in the "sampleData" file.
+
+If you want to draw your own image to test, make sure that:
+
+1) It is 28x28
+2) It has a dark background (preferably black)
+3) You use a light coloured brush (preferably white)
+
+- Mahir
